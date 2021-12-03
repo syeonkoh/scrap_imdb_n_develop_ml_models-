@@ -11,7 +11,8 @@
 
 From this codes, you could ...
 * Inspect html structures.
-* Use requests and Beautiful Soup for scraping and parsing data
-* Practice manipulating and dropping data
+* Use requests and Beautiful Soup for scraping and parsing data.
+* Use multiprocessing to scrap review data.
+* Practice manipulating and dropping data.
 * Study simple naive bayes, logistic Regression, Recurrent Neural Network, Convolutional Neural Network. 
 
