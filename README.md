@@ -6,8 +6,8 @@
 
 
 ## INTRO
-####This project will give an idea for scraping websites and studying Tensorflow and Scikit-learn briefly. 
-####Python Library: Beautiful Soup, Pandas, TensorFlow, Scikit-learn 
+#### This project will give an idea for scraping websites and studying Tensorflow and Scikit-learn briefly. 
+#### Python Library: Beautiful Soup, Pandas, TensorFlow, Scikit-learn 
 
 From this codes, you could ...
 * Inspect html structures.
